@@ -42,3 +42,16 @@ print_third_char("Hello!")
 print_third_char("Goodbye!") 
 print_third_char("How are you?") 
 print_third_char("I'm a function!") 
+
+# Write a function that changes the 5th character of a string to an exclamation point.
+# If the string is less than 5 characters long, print "String too short."
+def change_fifth_char(string1):
+    pass # remove this line once you've written the function
+
+# Test your function with the following:
+change_fifth_char("Hellooo")
+change_fifth_char("Goodbye")
+change_fifth_char("How are you")
+change_fifth_char("I'm a function")
+change_fifth_char("Hi")
+change_fifth_char("Bye")
