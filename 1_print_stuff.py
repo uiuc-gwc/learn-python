@@ -3,4 +3,4 @@
 
 
 
-# You can run code by typing "python3 exercises/1_print_stuff.py" in the terminal.
+# You can run code by typing "python3 1_print_stuff.py" in the terminal.
