@@ -7,13 +7,13 @@ The condition MUST be a boolean value.
 '''
 
 if 1 == 2:
-    print("Will this code run?")
+    print("one equals two")
 else:
-    print("Does this code run?")
+    print("one does not equal two")
 
 # Will this code run?
 if "Hello":
-    print("Will this code run?")
+    print("if hello")
 
 
 
@@ -21,8 +21,8 @@ if "Hello":
 # These are used to check multiple conditions.
 # If the first condition is False, the code inside the "else if" statement will run.
 if 1 == 2:
-    print("Will this code run?")
+    print("one equals two")
 elif 1 == 1:
-    print("Does this code run?")
+    print("one equals one")
 else:
-    print("What about this code?")
+    print("else!!")
